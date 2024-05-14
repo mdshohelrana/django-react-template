@@ -1,0 +1,1 @@
+from solar.views.solar_production_api_view import GetSolarPanelProductionData

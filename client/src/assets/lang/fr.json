@@ -1,0 +1,36 @@
+{
+  "common": {
+    "profile": {
+      "my_profile": "My Profile",
+      "language": "Language",
+      "logout": "Logout"
+    },
+    "actions": {
+      "send": "Send",
+      "approve": "Approve",
+      "delete": "Delete {{title}}",
+      "yes": "Yes",
+      "ok": "OK",
+      "no": "No",
+      "back": "Back",
+      "save": "Save",
+      "update": "Update",
+      "cancel": "Cancel",
+      "hide": "Hide",
+      "display": "Display",
+      "connect_now": "CONNECT NOW",
+      "sign_in": "Sign in",
+      "sign_out": "Sign Out",
+      "edit": "Edit",
+      "remove": "Remove",
+      "update_signature": "Update Signature",
+      "add_signature": "Add Signature",
+      "select_pipeline": "Select a Pipeline",
+      "submit": "Submit",
+      "try_to_sign_in_again": "Try to sign in again",
+      "change": "change",
+      "change_board_privacy": "Change panel privacy",
+      "refresh": "Refresh"
+    }
+  }
+}

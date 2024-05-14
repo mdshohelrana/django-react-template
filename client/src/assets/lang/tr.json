@@ -1,0 +1,42 @@
+{
+  "actions": {
+    "save": "Kaydet",
+    "saving": "Kaydediliyor....",
+    "send": "Gönder",
+    "sign_in": "Oturum aç",
+    "sign_out": "Oturumu kapat"
+  },
+  "form_label": {
+    "confirm_new_password": "Yeni Şifreyi Onayla",
+    "current_password": "Mevcut Şifre",
+    "language": "Dil",
+    "new_password": "Yeni Şifre",
+    "name": "Adı",
+    "password": "Şifre",
+    "email": "E-posta"
+  },
+  "placeholder": {
+    "enter_confirm_new_password": "Yeni Şifreyi Onaylayın",
+    "enter_current_password": "Mevcut Şifreyi Girin",
+    "enter_new_password": "Yeni Şifreyi Girin"
+  },
+  "navigation": {
+    "sidebar": {
+    "dashboard": "Painel",
+    "menu_1": "Menu 1",
+    "menu_2": "Menu 2",
+    "menu_3": "Menu 3",
+    "menu_4": "Menu 4",
+    "menu_5": "Menu 5",
+    "menu_6": "Menu 6"
+  },
+    "profile": {
+      "change_password": "Şifreyi Değiştir",
+      "account_overview": "Hesap Genel Bakışı",
+      "password": "Şifre"
+    }
+  },
+  "pages": {
+    "login": "Giriş Yap"
+  }
+}

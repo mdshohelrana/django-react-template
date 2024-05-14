@@ -1,0 +1,19 @@
+.react-select__control {
+  @apply h-12 !border-[#606568]/60 focus:!outline focus:!outline-[0.5px] focus:!border-primary-turquoise focus:!outline-primary-turquoise sm:!text-sm !rounded-5px disabled:!text-gray-400 !text-gray-600;
+}
+
+.react-select__indicator-separator {
+  @apply !hidden;
+}
+
+.react-select__input {
+  @apply focus:!ring-0;
+}
+
+.css-t3ipsp-control {
+  box-shadow: 0 0 0 1px #09ddf0 !important;
+}
+
+#react-select-3-input {
+  @apply focus:!ring-transparent;
+}

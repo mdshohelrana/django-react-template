@@ -1,0 +1,36 @@
+{
+  "actions": {
+    "save": "Save",
+    "saving": "Saving....",
+    "send": "Send",
+    "sign_in": "Sign in",
+    "sign_out": "Sign Out"
+  },
+  "form_label": {
+    "confirm_new_password": "Confirm New Password",
+    "current_password": "Current Password",
+    "language": "Language",
+    "new_password": "New Password",
+    "name": "Name",
+    "password": "Password",
+    "email": "Email"
+  },
+  "placeholder": {
+    "enter_confirm_new_password": "Confirm New Password",
+    "enter_current_password": "Current Password",
+    "enter_new_password": "New Password"
+  },
+  "navigation": {
+    "sidebar": {
+      "dashboard": "Dashboard"
+    },
+    "profile": {
+      "change_password": "Change password",
+      "account_overview": "Account Overview",
+      "password": "Password"
+    }
+  },
+  "pages": {
+    "login": "Login"
+  }
+}
